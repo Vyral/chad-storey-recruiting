@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Kirkland Careers
 permalink: /join-our-team/
 ---
 
@@ -15,39 +15,60 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Fellow Real Estate Agent,</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>We understand that your sales production is not stellar, and you may be frustrated right now with your current brokerage. Perhaps you bring a lot of experience to the table working as an agent, and you feel as though your current trajectory isn’t advancing your career and life the way it should be. The fact is you may lack the coaching, company referrals, and sales training that would afford you the ability to reach a higher level of success.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Working in an environment with little emphasis on agent development can be discouraging. You probably feel like a cog in a larger machine—a machine that isn’t designed for personal growth. Sadly, in terms of the national numbers, 87% of agents will fail within their first five years in the industry.</p>
+
+<p><strong>Here in Washington, the Department of Licensing has found that 75% of licensees will not renew their license upon the first renewal period.</strong> This means that as few as 25% of new agents will stay in the business past the two-year mark. And it gets worse from there: On the second renewal, a meager 50% of those remaining agents choose to stay in the business. By the fourth year, only 12.5% will be left standing.</p>
+
+<p>The typical agent who doesn’t receive proper sales training from their brokerage is left to fend for themselves. Many turn to training companies such as Keller Williams and are making every effort to find solutions to this problem to better equip themselves in this area.</p>
+
+<p>If you’re one of these agents, your goals are likely seeming less and less reachable by the day. Since you lack the necessary tools for establishing a recipe for success, you’ve found yourself up at 3 a.m. wondering where your career is headed and if you’ll ever find success working in real estate. You know that the clock is ticking and changes need to be made.</p>
+
+<p><strong>Joining our team here at Century 21 Northwest is the solution you’ve been looking for. As the No. 1 fastest-growing Century 21 team in the country, we’ve helped scores of agents unlock their potential and double, sometimes even triple, their sales production. You see, we pride ourselves on empowering our agents through coaching, sales training, and the accountability that is central to goal achievement and eliminating failure.</strong></p>
+
+<p>Some of the tools by which we maximize our agents’ potential are:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>A daily selling roleplay </li>
+<li>Weekly sales training </li>
+<li>One-on-one coaching </li>
+<li>A highly responsive sales trainer, sales coach, and accountability coach </li>
+<li>An unmatched number of resources at your disposal</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>Too many agents end up funneling valuable time and energy into the administrative side of the business—time and energy that could otherwise be used to strengthen their sales skills and individual growth. If this sounds familiar to you, we have a solution to this problem as well: On our team, there are three listing coordinators, seven transaction coordinators, and five marketing coordinators.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Our belief is that agents shouldn’t be distracted by marketing, inputting listing information, and so on. Instead, <strong>they should be an active part in 90% of income-generating tasks that includes meeting with clientele and drumming up business on the phone. By leveraging our back-office team, agents can stay out of administrative duties and allocate all their efforts toward what they’re here to do: sell homes.</strong></p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Ultimately, the fate of your career is in your hands. You can continue working for a brokerage or company that doesn’t set you up for success, be one of those that gets out of the business altogether, <strong>or supplement your income in other ways, or you can join us, get plugged into our system, and discover what it means to have success in real estate.</strong></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Take it from Celeste Zarling, a current member of our team: In her first year with the company and as a new licensee, she went on 157 listing appointments and closed 72 of them.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>To join our team, you’ll need to come with an open mind, be coachable, and have outrageous goals—as exemplified by Celeste. If these are all qualities you possess, you’d be a great fit for our culture.  </p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>In case you need more convincing, ask yourself these two questions: How would 48 listing referrals change my life this year? And how much of an impact would 48 referrals have had on my business last year? That number of referrals, in the form of live-transfer calls, are just part of what we offer to our agents to help them thrive and aim for the heights of success.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>The onboarding process will include:
+<ul class="indent">
+<li>12 weeks and 24 sessions’ worth of one-on-one onboarding training</li>
+<li>Group training every Tuesday morning with our company’s executive director</li>
+<li>One-on-one sales coaching</li>
+</ul></p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Beyond that, if you don’t see value in what we do after going through every step in the onboarding process and having full exposure to the coaching and training we offer, we’ll pay you $1,000 to quit.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>Now is the time to accelerate growth in your career as an agent and an individual—you owe it to both your family and your future.  If you are ready to go one step (or many steps) further with your career potential, this is your chance.
+There may be some other pressing questions on your mind that I have yet to answer like, “What’s the commission split?”, “Can you guarantee referrals?”, or “What will the transaction fees cost me?”  </p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>We can answer those questions for you and any other questions you may have about our team if you just give us a call or send us an email. Reach out to us today and become part of a team whose ultimate success is dependent on each member’s success.</p>
+
+
+<p>I look forward to speaking with you soon!</p>
+
+<p>Chad Storey</p>
+
 
 
 
