@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Kirkland Careers
+title: The Pacific Northwest Careers
 permalink: /join-our-team/
 ---
 
