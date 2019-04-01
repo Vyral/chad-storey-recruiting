@@ -20,9 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Chad Storey and we’ve sold over 7,000 homes.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -36,20 +34,20 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<hr>
-<div class="qanda">
-<p class="section-title">Here’s what a few agents say about working with me…</p>
+<!--<hr>-->
+<!--<div class="qanda">-->
+<!--<p class="section-title">Here’s what a few agents say about working with me…</p>-->
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<!--<p><span class="quote"></span><br>-->
+<!--<span class="author"></span></p>-->
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<!--<p><span class="quote"></span><br>-->
+<!--<span class="author"></span></p>-->
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-</div>
-<hr>
+<!--<p><span class="quote"></span><br>-->
+<!--<span class="author"></span></p>-->
+<!--</div>-->
+<!--<hr>-->
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
@@ -84,6 +82,6 @@ permalink: /strategy-call/
 						<label for="state">State </label> <input type="text" name="state" />
 						<label for="message">How May I Help You?* </label><textarea name="message" required=""></textarea>
 						<input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
-					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
+					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Strategy Call Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
 </div>
