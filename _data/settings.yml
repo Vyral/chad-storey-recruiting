@@ -1,6 +1,6 @@
 audit_header: false
-title: "Kirkland's Best Real Estate Training"
-description: Chad Storey, a top Real Estate Agent in Kirkland, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "The Pacific Northwest's Best Real Estate Training"
+description: Chad Storey, a top Real Estate Agent in The Pacific Northwest, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -19,7 +19,7 @@ client:
   license_number:
   about_markdown: |
     In 2003 Chad started flipping houses while still working in the tech industry. Chad got his real estate license that year as well and he and his tech industry friends started to marry their tech industry knowledge with real estate. Chad actually built an MLS for foreclosures and sold that company. Chad realized there was more money to be made in real estate than staying in the tech industry and that the "smart agents" in the area didn't know about technology. Chad became a full-time independent agent in 2005 and by 2015 he was recruited by Century 21 to run a brokerage for them. Now in 2019 C21 NW is at 160 agents, 7 locations and paid out $10 Million GCI last year.
-  market: Kirkland
+  market: The Pacific Northwest
   brand: Century21 Northwest
   brokerage:
   address: 121 Lake Street South, Suite 201, Kirkland, WA 98033
@@ -57,19 +57,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Kirkland Real Estate Podcast with Chad Storey'
+  title: 'The Pacific Northwest Real Estate Podcast with Chad Storey'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Kirkland Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional Kirkland Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kirkland, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the The Pacific Northwest Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional The Pacific Northwest Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in The Pacific Northwest, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Chad Storey'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Kirkland Real Estate Video Blog
+  hero_text: The Pacific Northwest Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
